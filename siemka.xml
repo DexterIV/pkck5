@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TwitchTV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Autorzy>
+    <Autor Indeks="210139">
+      <Imię>Krzysztof</Imię>
+      <Nazwisko>Barden</Nazwisko>
+    </Autor>
+    <Autor Indeks="210347">
+      <Imię>Krzysztof</Imię>
+      <Nazwisko>Wierzbicki</Nazwisko>
+    </Autor>
+  </Autorzy>
+  <Twórcy>
+    <Twórca Login="LRK">
+      <Nazwa>LIRIK</Nazwa>
+      <Link>https://www.twitch.tv/LIRIK</Link>
+      <Subskrybenci>3865</Subskrybenci>
+      <ŚredniaObejrzeń>2014.3</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="VDR">
+      <Nazwa>Vader</Nazwa>
+      <Link>https://www.twitch.tv/Vader</Link>
+      <Subskrybenci>15146</Subskrybenci>
+      <ŚredniaObejrzeń>6214.1</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="SLR">
+      <Nazwa>Solary</Nazwa>
+      <Link>https://www.twitch.tv/Solary</Link>
+      <Subskrybenci>12283</Subskrybenci>
+      <ŚredniaObejrzeń>5238.6</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="GLS">
+      <Nazwa>gaules</Nazwa>
+      <Link>https://www.twitch.tv/gaules</Link>
+      <Subskrybenci>27312</Subskrybenci>
+      <ŚredniaObejrzeń>12040.8</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="SMPL">
+      <Nazwa>s1mple</Nazwa>
+      <Link>https://www.twitch.tv/s1mple</Link>
+      <Subskrybenci>11926</Subskrybenci>
+      <ŚredniaObejrzeń>5396.9</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="YSSUO">
+      <Nazwa>Yassuo</Nazwa>
+      <Link>https://www.twitch.tv/Yassuo</Link>
+      <Subskrybenci>22658</Subskrybenci>
+      <ŚredniaObejrzeń>10485.5</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="SLCSG">
+      <Nazwa>ESL_CSGO</Nazwa>
+      <Link>https://www.twitch.tv/ESL_CSGO</Link>
+      <Subskrybenci>37562</Subskrybenci>
+      <ŚredniaObejrzeń>20451.8</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="SMMTG">
+      <Nazwa>summit1g</Nazwa>
+      <Link>https://www.twitch.tv/summit1g</Link>
+      <Subskrybenci>37764</Subskrybenci>
+      <ŚredniaObejrzeń>18163.6</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="GRKGDX">
+      <Nazwa>Greekgodx</Nazwa>
+      <Link>https://www.twitch.tv/Greekgodx</Link>
+      <Subskrybenci>49614</Subskrybenci>
+      <ŚredniaObejrzeń>17701.4</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="SLCSGB">
+      <Nazwa>ESL_CSGOb</Nazwa>
+      <Link>https://www.twitch.tv/ESL_CSGOb</Link>
+      <Subskrybenci>45930</Subskrybenci>
+      <ŚredniaObejrzeń>26417.8</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="LCKKR">
+      <Nazwa>LCK_Korea</Nazwa>
+      <Link>https://www.twitch.tv/LCK_Korea</Link>
+      <Subskrybenci>4321</Subskrybenci>
+      <ŚredniaObejrzeń>2257.9</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="SLBRZL">
+      <Nazwa>esl_brazil</Nazwa>
+      <Link>https://www.twitch.tv/esl_brazil</Link>
+      <Subskrybenci>42909</Subskrybenci>
+      <ŚredniaObejrzeń>20651.9</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="RTGMS">
+      <Nazwa>Riot Games</Nazwa>
+      <Link>https://www.twitch.tv/Riot%20Games</Link>
+      <Subskrybenci>4488</Subskrybenci>
+      <ŚredniaObejrzeń>1850.4</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="GMNGLL">
+      <Nazwa>OgamingLoL</Nazwa>
+      <Link>https://www.twitch.tv/OgamingLoL</Link>
+      <Subskrybenci>42514</Subskrybenci>
+      <ŚredniaObejrzeń>16089.4</ŚredniaObejrzeń>
+    </Twórca>
+    <Twórca Login="MNMNW">
+      <Nazwa>MOONMOON_OW</Nazwa>
+      <Link>https://www.twitch.tv/MOONMOON_OW</Link>
+      <Subskrybenci>1721</Subskrybenci>
+      <ŚredniaObejrzeń>557.1</ŚredniaObejrzeń>
+    </Twórca>
+  </Twórcy>
+  <ListaGier>
+    <ZdefiniowanaGra Nazwa="Counter Strike Global Offensive" Id="CSGO" Dostępna="true" />
+    <ZdefiniowanaGra Nazwa="League of Legends" Id="LOL" Dostępna="true" />
+    <ZdefiniowanaGra Nazwa="GTA V" Id="GTA" Dostępna="true" />
+    <ZdefiniowanaGra Nazwa="asd" Id="1" Dostępna="True" />
+  </ListaGier>
+  <Gra IdGry="CSGO">
+    <Kanał ID="SLCSG" Nazwa="ESL_CSGO">
+      <DataPowstania>2015-09-08</DataPowstania>
+      <Podmiot>Liga e-sportowa</Podmiot>
+      <Język Kod="EN" />
+      <RodzajKanału Typ="Partner" />
+    </Kanał>
+    <Kanał ID="GLS" Nazwa="gaules">
+      <DataPowstania>2014-11-02</DataPowstania>
+      <Podmiot>Gracz</Podmiot>
+      <Język Kod="BR" />
+      <RodzajKanału Typ="Kontraktor" />
+    </Kanał>
+    <Kanał ID="SLCSGB" Nazwa="ESL_CSGOb">
+      <DataPowstania>2012-11-17</DataPowstania>
+      <Podmiot>Liga e-sportowa</Podmiot>
+      <Język Kod="EN" />
+      <RodzajKanału Typ="Partner" />
+    </Kanał>
+    <Kanał ID="SLBRZL" Nazwa="esl_brazil">
+      <DataPowstania>2019-01-01</DataPowstania>
+      <Podmiot>Liga e-sportowa</Podmiot>
+      <Język Kod="BR" />
+      <RodzajKanału Typ="Partner" />
+    </Kanał>
+    <Kanał ID="SMPL" Nazwa="s1mple">
+      <DataPowstania>2014-08-27</DataPowstania>
+      <Podmiot>Gracz</Podmiot>
+      <Język Kod="ES" />
+      <RodzajKanału Typ="Kontraktor" />
+    </Kanał>
+  </Gra>
+  <Gra IdGry="LOL">
+    <Kanał ID="RTGMS" Nazwa="Riot Games">
+      <DataPowstania>2012-09-08</DataPowstania>
+      <Podmiot>Developer</Podmiot>
+      <Język Kod="EN" />
+      <RodzajKanału Typ="Partner" />
+    </Kanał>
+    <Kanał ID="YSSUO" Nazwa="Yassuo">
+      <DataPowstania>2014-07-04</DataPowstania>
+      <Podmiot>Gracz</Podmiot>
+      <Język Kod="EN" />
+      <RodzajKanału Typ="Kontraktor" />
+    </Kanał>
+    <Kanał ID="LCKKR" Nazwa="LCK_Korea">
+      <DataPowstania>2019-01-22</DataPowstania>
+      <Podmiot>Liga e-sportowa</Podmiot>
+      <Język Kod="KO" />
+      <RodzajKanału Typ="Partner" />
+    </Kanał>
+    <Kanał ID="SLR" Nazwa="Solary">
+      <DataPowstania>2019-04-23</DataPowstania>
+      <Podmiot>Gracz</Podmiot>
+      <Język Kod="FR" />
+      <RodzajKanału Typ="Kontraktor" />
+    </Kanał>
+    <Kanał ID="GMNGLL" Nazwa="OgamingLoL">
+      <DataPowstania>2018-02-07</DataPowstania>
+      <Podmiot>Liga e-sportowa</Podmiot>
+      <Język Kod="BR" />
+      <RodzajKanału Typ="Partner" />
+    </Kanał>
+  </Gra>
+  <Gra IdGry="GTA">
+    <Kanał ID="SMMTG" Nazwa="summit1g">
+      <DataPowstania>2014-11-11</DataPowstania>
+      <Podmiot>Gracz</Podmiot>
+      <Język Kod="EN" />
+      <RodzajKanału Typ="Kontraktor" />
+    </Kanał>
+    <Kanał ID="LRK" Nazwa="LIRIK">
+      <DataPowstania>2013-07-07</DataPowstania>
+      <Podmiot>Gracz</Podmiot>
+      <Język Kod="ES" />
+      <RodzajKanału Typ="Kontraktor" />
+    </Kanał>
+    <Kanał ID="GRKGDX" Nazwa="Greekgodx">
+      <DataPowstania>2015-08-05</DataPowstania>
+      <Podmiot>Gracz</Podmiot>
+      <Język Kod="EN" />
+      <RodzajKanału Typ="Kontraktor" />
+    </Kanał>
+    <Kanał ID="MNMNW" Nazwa="MOONMOON_OW">
+      <DataPowstania>2018-11-01</DataPowstania>
+      <Podmiot>Developer</Podmiot>
+      <Język Kod="KO" />
+      <RodzajKanału Typ="Partner" />
+    </Kanał>
+    <Kanał ID="VDR" Nazwa="Vader">
+      <DataPowstania>2015-12-30</DataPowstania>
+      <Podmiot>Gracz</Podmiot>
+      <Język Kod="EN" />
+      <RodzajKanału Typ="Kontraktor" />
+    </Kanał>
+  </Gra>
+  <Gra IdGry="1" />
+</TwitchTV>

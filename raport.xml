@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TwitchTV>
+  <Autorzy>
+    <Autor>
+      <Indeks>210139</Indeks>
+      <Imię>Krzysztof</Imię>
+      <Nazwisko>Barden</Nazwisko>
+    </Autor>
+    <Autor>
+      <Indeks>210347</Indeks>
+      <Imię>Krzysztof</Imię>
+      <Nazwisko>Wierzbicki</Nazwisko>
+    </Autor>
+  </Autorzy>
+  <Gra Nazwa="Counter Strike Global Offensive">
+    <Kanał>
+      <Twórca>
+        <Nazwa>ESL_CSGO</Nazwa>
+        <Link>https://www.twitch.tv/ESL_CSGO</Link>
+      </Twórca>
+      <Podmiot>Liga e-sportowa</Podmiot>
+      <DługośćIstnieniaKanału>1336</DługośćIstnieniaKanału>
+      <Język>EN: Angielski</Język>
+      <RodzajKanału>Partner</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>gaules</Nazwa>
+        <Link>https://www.twitch.tv/gaules</Link>
+      </Twórca>
+      <Podmiot>Gracz</Podmiot>
+      <DługośćIstnieniaKanału>1646</DługośćIstnieniaKanału>
+      <Język>BR: Brazylijski</Język>
+      <RodzajKanału>Kontraktor</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>ESL_CSGOb</Nazwa>
+        <Link>https://www.twitch.tv/ESL_CSGOb</Link>
+      </Twórca>
+      <Podmiot>Liga e-sportowa</Podmiot>
+      <DługośćIstnieniaKanału>2361</DługośćIstnieniaKanału>
+      <Język>EN: Angielski</Język>
+      <RodzajKanału>Partner</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>esl_brazil</Nazwa>
+        <Link>https://www.twitch.tv/esl_brazil</Link>
+      </Twórca>
+      <Podmiot>Liga e-sportowa</Podmiot>
+      <DługośćIstnieniaKanału>125</DługośćIstnieniaKanału>
+      <Język>BR: Brazylijski</Język>
+      <RodzajKanału>Partner</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>s1mple</Nazwa>
+        <Link>https://www.twitch.tv/s1mple</Link>
+      </Twórca>
+      <Podmiot>Gracz</Podmiot>
+      <DługośćIstnieniaKanału>1713</DługośćIstnieniaKanału>
+      <Język>ES: Hiszpański</Język>
+      <RodzajKanału>Kontraktor</RodzajKanału>
+    </Kanał>
+  </Gra>
+  <Gra Nazwa="League of Legends">
+    <Kanał>
+      <Twórca>
+        <Nazwa>Riot Games</Nazwa>
+        <Link>https://www.twitch.tv/Riot%20Games</Link>
+      </Twórca>
+      <Podmiot>Developer</Podmiot>
+      <DługośćIstnieniaKanału>2431</DługośćIstnieniaKanału>
+      <Język>EN: Angielski</Język>
+      <RodzajKanału>Partner</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>Yassuo</Nazwa>
+        <Link>https://www.twitch.tv/Yassuo</Link>
+      </Twórca>
+      <Podmiot>Gracz</Podmiot>
+      <DługośćIstnieniaKanału>1767</DługośćIstnieniaKanału>
+      <Język>EN: Angielski</Język>
+      <RodzajKanału>Kontraktor</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>LCK_Korea</Nazwa>
+        <Link>https://www.twitch.tv/LCK_Korea</Link>
+      </Twórca>
+      <Podmiot>Liga e-sportowa</Podmiot>
+      <DługośćIstnieniaKanału>104</DługośćIstnieniaKanału>
+      <Język>KO: Koreański</Język>
+      <RodzajKanału>Partner</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>Solary</Nazwa>
+        <Link>https://www.twitch.tv/Solary</Link>
+      </Twórca>
+      <Podmiot>Gracz</Podmiot>
+      <DługośćIstnieniaKanału>13</DługośćIstnieniaKanału>
+      <Język>FR: Francuski</Język>
+      <RodzajKanału>Kontraktor</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>OgamingLoL</Nazwa>
+        <Link>https://www.twitch.tv/OgamingLoL</Link>
+      </Twórca>
+      <Podmiot>Liga e-sportowa</Podmiot>
+      <DługośćIstnieniaKanału>453</DługośćIstnieniaKanału>
+      <Język>BR: Brazylijski</Język>
+      <RodzajKanału>Partner</RodzajKanału>
+    </Kanał>
+  </Gra>
+  <Gra Nazwa="GTA V">
+    <Kanał>
+      <Twórca>
+        <Nazwa>summit1g</Nazwa>
+        <Link>https://www.twitch.tv/summit1g</Link>
+      </Twórca>
+      <Podmiot>Gracz</Podmiot>
+      <DługośćIstnieniaKanału>1637</DługośćIstnieniaKanału>
+      <Język>EN: Angielski</Język>
+      <RodzajKanału>Kontraktor</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>LIRIK</Nazwa>
+        <Link>https://www.twitch.tv/LIRIK</Link>
+      </Twórca>
+      <Podmiot>Gracz</Podmiot>
+      <DługośćIstnieniaKanału>2129</DługośćIstnieniaKanału>
+      <Język>ES: Hiszpański</Język>
+      <RodzajKanału>Kontraktor</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>Greekgodx</Nazwa>
+        <Link>https://www.twitch.tv/Greekgodx</Link>
+      </Twórca>
+      <Podmiot>Gracz</Podmiot>
+      <DługośćIstnieniaKanału>1370</DługośćIstnieniaKanału>
+      <Język>EN: Angielski</Język>
+      <RodzajKanału>Kontraktor</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>MOONMOON_OW</Nazwa>
+        <Link>https://www.twitch.tv/MOONMOON_OW</Link>
+      </Twórca>
+      <Podmiot>Developer</Podmiot>
+      <DługośćIstnieniaKanału>186</DługośćIstnieniaKanału>
+      <Język>KO: Koreański</Język>
+      <RodzajKanału>Partner</RodzajKanału>
+    </Kanał>
+    <Kanał>
+      <Twórca>
+        <Nazwa>Vader</Nazwa>
+        <Link>https://www.twitch.tv/Vader</Link>
+      </Twórca>
+      <Podmiot>Gracz</Podmiot>
+      <DługośćIstnieniaKanału>1223</DługośćIstnieniaKanału>
+      <Język>EN: Angielski</Język>
+      <RodzajKanału>Kontraktor</RodzajKanału>
+    </Kanał>
+  </Gra>
+  <Podsumowanie>
+    <Statystyki>
+      <Kanały>
+        <Partner>7</Partner>
+        <Kontraktor>8</Kontraktor>
+        <Wszystkie>15</Wszystkie>
+      </Kanały>
+      <Gry>
+        <CSGO>5</CSGO>
+        <LOL>5</LOL>
+        <GTA>5</GTA>
+        <Wszystkie>15</Wszystkie>
+      </Gry>
+      <DataRaportu>2019-05-06T23:25:37+02:00</DataRaportu>
+    </Statystyki>
+  </Podsumowanie>
+</TwitchTV>
