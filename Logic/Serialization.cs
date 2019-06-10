@@ -1,10 +1,9 @@
 ﻿using System;
 using System.IO;
-using System.Xml;
 using System.Xml.Serialization;
 using System.Xml.Xsl;
 
-namespace Logic
+namespace Model
 {
     public static class Serialization
     {

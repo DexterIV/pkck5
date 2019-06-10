@@ -1,4 +1,4 @@
-﻿using Logic;
+﻿using Model;
 using System;
 
 namespace TUI
@@ -53,9 +53,6 @@ namespace TUI
             {
                 try
                 {
-                    //Console.WriteLine("Type file name:");
-                    //var fileName = Console.ReadLine();
-                    //var root = Serialization.DeserializeFile(filePath + fileName);
 
                 Console.WriteLine("1.Pokaz wszystko");
                 Console.WriteLine("2.Dodaj gre");

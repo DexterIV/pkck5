@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Logic
+namespace Model
 {
     public static class GetById
     {

@@ -1,8 +1,8 @@
 ﻿
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using static Logic.Tools;
-namespace Logic
+using static Model.Tools;
+namespace Model
 {
     [XmlRoot(ElementName = "Autor")]
     public class Autor
